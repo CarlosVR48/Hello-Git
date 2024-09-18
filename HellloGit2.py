@@ -1,1 +1,0 @@
-print ("\nEste es el segundo archivo de Hello Git")
